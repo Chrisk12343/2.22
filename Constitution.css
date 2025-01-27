@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+/* this is the backround color for the body */
+h1{
+    color: aqua;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    /* different font styles */
+}
+h2{
+    color: blueviolet;
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+}
+h3{
+    color: red;
+    font-size: large;
+    font-style: inherit;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: medium;
+    font-style: initial;
+}
