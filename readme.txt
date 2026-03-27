@@ -1,4 +1,18 @@
-Use text that is not covered by copyright, for example, the link (below) to the Constitution, and style it using CSS.
+# 2.22-main
 
-Constitution.html
-Constitution.css
+Simple static page project for the Constitution assignment.
+
+## Files
+- Constitution.html — main HTML page
+- Constitution.css — page styling
+- readme.txt — original notes
+
+## How to view
+- Open `Constitution.html` in your browser (double-click or use the command below in PowerShell):
+
+```powershell
+Start-Process .\Constitution.html
+```
+
+## Notes
+This repository contains a single static page and its stylesheet. Edit the HTML/CSS files and refresh the browser to see changes.
